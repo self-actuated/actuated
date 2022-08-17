@@ -16,9 +16,9 @@ Enable automated updates on your server, and install the actuated agent. We'll d
 
 Watch a live demo:
 
-[![Live stream](https://img.youtube.com/vi/CYCsa5e2vqg/hqdefault.jpg)](https://www.youtube.com/watch?v=CYCsa5e2vqg?t=4328)
+[![Live stream](https://img.youtube.com/vi/CYCsa5e2vqg/hqdefault.jpg)](https://www.youtube.com/watch?v=CYCsa5e2vqg?t=4399)
 
-> Alex's demo begins at 1:12:08
+> Alex's demo begins at 1:13:19
 
 ## Register for the pilot
 
