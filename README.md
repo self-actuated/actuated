@@ -26,3 +26,9 @@ Want to try out actuated with your CI solution?
 
 [Register for the Actuated Pilot - managed self-hosted runners](https://forms.gle/8XmpTTWXbZwWkfqT6)
 
+## GitHub Actions samples for Docker / KinD / K3s and OpenFaaS
+
+* [AMD64/Intel examples](https://github.com/actuated-samples)
+* [AARCH64 / Graviton / Raspberry Pi 4 examples](https://github.com/actuated-samples-arm64)
+
+Follow [@selfactuated on Twitter](https://twitter.com/selfactuated)
