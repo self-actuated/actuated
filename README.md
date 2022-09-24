@@ -4,13 +4,15 @@ Actuated brings blazingly fast, secure builds to self-hosted CI runners.
 
 ## Building containers on self-hosted runners is slow and insecure
 
-Most solutions that use containers for running Docker or Kubernetes in CI have very poor security boundaries. They require either privileged containers (root on the host), a shared Docker socket (root on the host), third-party tools which don't integrate well and still require root to mount folders, or user namespaces which come with their own limitations.
+Most solutions that use containers for running Docker or Kubernetes in CI have very poor security boundaries. They require either privileged containers (root on the host), a shared Docker socket (root on the host), third-party tools which don't integrate well and still require root to mount folders, or user namespaces which come with their own limitations. We're looking squarely at you: [actions-controller-runtime](https://github.com/actions-runner-controller/actions-runner-controller), Jenkins and GitLab.
 
 ## Management is a nightmare
 
 Self-hosted CI runners are continually out of date, and require fine-tuning to get all the right packages in place and Kernel modules to build containers and cloud-native software. You'll also have to spend extra time making sure builds don't conflict, and that they can't cause side effects to system-level packages. What if you need two different version of some software?
 
 If you haven't felt this pain yet, then perhaps you're blissfully unaware or are not updating your packages?
+
+> Are you [running privileged containers](https://learn.snyk.io/lessons/container-runs-in-privileged-mode/kubernetes/) for CI in your organisation? Are you sharing a Docker Socket (just as bad!)? Are you running [Docker in Docker (DIND)](https://jpetazzo.github.io/2015/09/03/do-not-use-docker-in-docker-for-ci/)? 🙈
 
 ## Self-managed runners are inefficient and overprovisioned
 
