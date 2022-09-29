@@ -44,7 +44,7 @@ Watch a live demo:
 
 Would you like to try out Actuated for your team and GitHub Organisation?
 
-[Register your GitHub Organisation](https://docs.actuated.dev/registration/)
+[Register your GitHub Organisation](https://docs.actuated.dev/register/)
 
 ## FAQ
 
