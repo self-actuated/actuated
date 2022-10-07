@@ -53,10 +53,7 @@ Would you like to try out Actuated for your team and GitHub Organisation?
 
 [Read the FAQ in the docs](https://docs.actuated.dev/faq/)
 
-Browse sample GitHub Actions builds:
-
-* [AMD64/Intel examples](https://github.com/actuated-samples)
-* [AARCH64 / Graviton / Raspberry Pi 4 examples](https://github.com/actuated-samples-arm64)
+See example builds for common use-cases: [https://docs.actuated.dev/](https://docs.actuated.dev/)
 
 Follow [@selfactuated on Twitter](https://twitter.com/selfactuated)
 
