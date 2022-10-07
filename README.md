@@ -34,11 +34,14 @@ And actuated will run your jobs efficiently across a fleet of hosts, or a single
 > 
 > Something that activates or impels itself; specifically (a machine, device, etc.) that causes itself to begin operating automatically, self-activating.
 
-Watch a live demo:
+## Live demo & webinar on microVM security & isolation
 
-[![Live stream](https://img.youtube.com/vi/CYCsa5e2vqg/hqdefault.jpg)](https://www.youtube.com/watch?v=CYCsa5e2vqg?t=4399)
+Alex shows you how actuated uses an isolated, immutable microVM to run K3s inside of a GitHub Action, followed by a matrix build that causes 5 VMs to be launched. You'll see how quick and easy it is to enable actuated, and how it can buffer and queue up jobs, when there's no remaining capacity in your fleet of agents.
 
-> Alex's demo begins at 1:13:19
+[![Live demo and walk-through](https://img.youtube.com/vi/2o28iUC-J1w/hqdefault.jpg)](https://www.youtube.com/watch?v=2o28iUC-J1w)
+
+You can also watch a webinar that Alex recorded with Richard Case from Weaveworks on how microVMs compare to containers and legacy VMs, [you'll see Alex's demo at: 1:13:19](https://www.youtube.com/watch?v=CYCsa5e2vqg?t=4399).
+
 
 ## Register for the pilot
 
