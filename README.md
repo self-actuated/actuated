@@ -42,14 +42,15 @@ Alex shows you how actuated uses an isolated, immutable microVM to run K3s insid
 
 You can also watch a webinar that Alex recorded with Richard Case from Weaveworks on how microVMs compare to containers and legacy VMs, [you'll see Alex's demo at: 1:13:19](https://www.youtube.com/watch?v=CYCsa5e2vqg?t=4399).
 
-
-## Register for the pilot
+## Getting started with actuated 
 
 Would you like to try out Actuated for your team and GitHub Organisation?
 
 [Register your GitHub Organisation](https://docs.actuated.dev/register/)
 
 [Read the announcement: Blazing fast CI with MicroVMs](https://blog.alexellis.io/blazing-fast-ci-with-microvms/)
+
+[See the latest blog posts](https://actuated.dev/blog)
 
 ## FAQ
 
