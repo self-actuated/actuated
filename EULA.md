@@ -45,14 +45,18 @@ This Agreement is effective from the first date you install the Software. You ma
 7. Co-Marketing
 At the request of Supplier, Customer agrees to participate in other reasonable marketing activities that promote the benefits of the Services to other potential customers and to use of Customer's name and logo on the Supplier's web site and in Supplier's promotional materials. Customer agrees that Supplier may disclose Customer as a customer of the Products.
 
-8. Limitation of Liability.
+8. License fees and refunds
 
-8.1 Warranty disclaimer. You acknowledge that the Software is provided "as is" without warranty of any kind, express or implied. You use the Software at your own risk and the product is supplied on an "as is" and "as available" basis. You assume all responsibility for selecting the Software to achieve your intended results, and for the installation of, and results obtained from the Software.
+Due to the inclusion of setup, onboarding, and ongoing support costs in the license fee for actuated, no refunds will be provided for any portion of the fee. Payments are made on a monthly basis and can be canceled at any time.
 
-8.2 No Consequential Damages. IN NO EVENT SHALL OpenFaaS Ltd BE LIABLE HEREUNDER FOR SPECIAL, PUNITIVE, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, LOSS OF REVENUE, LOSS OF USE OR LOSS OF DATA, EVEN IF ADVISED OF THE POSSIBILITY THEREOF OR, IF REASONABLY FORESEEABLE, INCURRED BY LICENSEE OR END USERS, OR CLAIMED AGAINST LICENSEE BY ANY OTHER PARTY, INCLUDING END USERS (WHETHER ANY SUCH CLAIMS ARISE UNDER THEORY OF CONTRACT, TORT OR OTHERWISE).
+9. Limitation of Liability.
 
-8.3 Limitation of Liability. To the extent permitted by applicable law, the liability of OpenFaaS Ltd and its licensors, personnel, subcontractors and suppliers arising out of, in connection with, or resulting from this Agreement and, without limitation, for any and all causes with respect to the Licensed Program Materials, breach of contract, tort, warranty or otherwise, shall in the aggregate not exceed the license fees paid by Licensee hereunder in the twelve (12) months immediately preceding the event giving rise to the claim.
+9.1 Warranty disclaimer. You acknowledge that the Software is provided "as is" without warranty of any kind, express or implied. You use the Software at your own risk and the product is supplied on an "as is" and "as available" basis. You assume all responsibility for selecting the Software to achieve your intended results, and for the installation of, and results obtained from the Software.
 
-8.3 Sections 1, 2, 3, 4, 5, 6, 7 and 8 will remain effective after the termination of the Agreement.
+9.2 No Consequential Damages. IN NO EVENT SHALL OpenFaaS Ltd BE LIABLE HEREUNDER FOR SPECIAL, PUNITIVE, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES, INCLUDING, BUT NOT LIMITED TO, LOSS OF PROFITS, LOSS OF REVENUE, LOSS OF USE OR LOSS OF DATA, EVEN IF ADVISED OF THE POSSIBILITY THEREOF OR, IF REASONABLY FORESEEABLE, INCURRED BY LICENSEE OR END USERS, OR CLAIMED AGAINST LICENSEE BY ANY OTHER PARTY, INCLUDING END USERS (WHETHER ANY SUCH CLAIMS ARISE UNDER THEORY OF CONTRACT, TORT OR OTHERWISE).
 
-8.4 If you have any questions about these terms or our Services you may contact us by email at: contact@openfaas.com
+9.3 Limitation of Liability. To the extent permitted by applicable law, the liability of OpenFaaS Ltd and its licensors, personnel, subcontractors and suppliers arising out of, in connection with, or resulting from this Agreement and, without limitation, for any and all causes with respect to the Licensed Program Materials, breach of contract, tort, warranty or otherwise, shall in the aggregate not exceed the license fees paid by Licensee hereunder in the twelve (12) months immediately preceding the event giving rise to the claim.
+
+9.3 Sections 1, 2, 3, 4, 5, 6, 7, 8 and 9 will remain effective after the termination of the Agreement.
+
+10.1 If you have any questions about these terms or our Services you may contact us by email at: contact@openfaas.com
