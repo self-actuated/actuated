@@ -1,4 +1,6 @@
-End User License Agreement (EULA)
+End User License Agreement (EULA) for Actuated
+
+Actuated is a trademark of OpenFaaS Ltd.
 
 1. Licensed software. actuated is licensed as commercial software and must not be used without a valid license key from OpenFaaS Ltd.
 
